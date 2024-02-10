@@ -68,4 +68,6 @@ Check out these resources for the best data science articles:
 - Jupyter Notebook
 - Pandas
 - Scikit-Learn
+- NLP
+- LLM
 - Deep Learning frameworks like TensorFlow

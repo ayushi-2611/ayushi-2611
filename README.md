@@ -47,6 +47,7 @@ Ask me about:
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ayushi-gupta-aa344b150/).
 - Reach me via email at [guptaayushi2611@outlook.com](mailto:guptaayushi2611@outlook.com).
+- [Portfolio](https://guptaayushi2611.wixsite.com/ayushi-gupta-portfol)
 
 ## Favorite Resources
 

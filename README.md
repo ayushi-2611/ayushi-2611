@@ -1,9 +1,9 @@
 # Hello, I'm Ayushi Gupta's 
-# Data Scientist | Data Analyst | Machine Learning Engineer 
+# Data Scientist | Data Analyst | Business System Analyst 
 
 ## Experience
 
-### Machine Learning Engineer at Cvent India, Gurugram (Jan 2022 - Sept 2022)
+### Data Analyst at Cvent India, Gurugram (Jan 2022 - Sept 2022)
 
 - Completed basic training and learned machine learning pipelines within the first two weeks of joining.
 - Developed a predictive model for support teams, resulting in a 23% improvement in resource allocation.

@@ -3,9 +3,8 @@
 
 ## Experience
 
-### Data Analyst at Cvent India, Gurugram (Jan 2022 - Sept 2022)
+### Business Data Analyst at Cvent India, Gurugram (Jan 2022 - Sept 2022)
 
-- Completed basic training and learned machine learning pipelines within the first two weeks of joining.
 - Developed a predictive model for support teams, resulting in a 23% improvement in resource allocation.
 - Analyzed sales data and created dashboards, resulting in a 20% increase in monthly revenue.
 - Implemented dynamic Jira dashboards to track team performance, increasing team efficiency by 30%.

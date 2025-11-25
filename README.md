@@ -1,4 +1,4 @@
-# Hello, I'm Ayushi Gupta's 
+# Hello, I'm Ayushi Gupta
 # Software Engineer | Problem Solver | Debugging Enthusiast
 ### Every problem has a root cause. Every root cause has a fix. And that fix often starts with a few lines of clean, intentional code.
 

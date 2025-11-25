@@ -1,6 +1,6 @@
 # Hello, I'm Ayushi Gupta
 # Software Engineer | Problem Solver | Debugging Enthusiast
-### Every problem has a root cause. Every root cause has a fix. And that fix often starts with a few lines of clean, intentional code.
+#### Every problem has a root cause. Every root cause has a fix. And that fix often starts with a few lines of clean, intentional code.
 
 ## About Me
 I’m Ayushi — a Software Engineer who blends backend engineering + technical support + product thinking to build solutions that actually solve problems, not hide them.

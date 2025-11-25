@@ -1,72 +1,119 @@
 # Hello, I'm Ayushi Gupta's 
-# Data Scientist | Data Analyst | Business System Analyst 
+# Software Engineer | Problem Solver | Debugging Enthusiast
+###Every problem has a root cause. Every root cause has a fix. And that fix often starts with a few lines of clean, intentional code.
 
-## Experience
+##About Me
+I’m Ayushi — a Software Engineer who blends backend engineering + technical support + product thinking to build solutions that actually solve problems, not hide them.
 
-### Business Data Analyst at Cvent India, Gurugram (Jan 2022 - Sept 2022)
+I started out as a quiet, underconfident girl from a small town in India… and ended up mastering some of the loudest systems in tech:
+	•	Java + Spring Boot
+	•	SQL (PostgreSQL, Couchbase SQL)
+	•	Python automation
+	•	System debugging with Splunk, Datadog, New Relic  ￼
+	•	ITIL & SDLC best practices  ￼
 
-- Developed a predictive model for support teams, resulting in a 23% improvement in resource allocation.
-- Analyzed sales data and created dashboards, resulting in a 20% increase in monthly revenue.
-- Implemented dynamic Jira dashboards to track team performance, increasing team efficiency by 30%.
+My journey is a mix of breaking production bugs, building backend systems, and teaching what I learn.
 
-### Application Support Analyst at Cvent India, Gurugram (Sept 2020 - Jan 2022)
+It’s messy. It’s beautiful. It’s me.
 
-- Enhanced preexisting toolbox application, resulting in a 10% improvement in efficiency for the support team.
-- Developed Tableau dashboards for tracking ticket progress, reducing paperwork by 65%.
-- Contributed to reducing time spent on communication within teams by 15%.
-- Utilized Python scripts to leverage REST APIs, resulting in a 25% decrease in data retrieval time.
+##🔧 Technical Skills I Bring to the Table
+###💻 Core Skills
+	•	Java • Spring Boot
+	•	REST API Development
+	•	SQL (PostgreSQL, Couchbase)
+	•	Python (automation + analysis)
+	•	System debugging & RCA
+	•	Monitoring tools (Splunk, Datadog, New Relic)
+	•	Incident Management (ITIL)
+	•	Business logic development
+###📚 Currently Learning
+	•	ReactJS
+	•	CI/CD pipelines
+	•	Scalable backend architecture
 
-## Internships
+##✨ Current Project: Employee Management System (Spring Boot)
+I’m currently building a full backend Employee Management System designed for small-to-mid sized teams that struggle with tracking people-related workflows.
 
-### Application Support Analyst Intern at Cvent India, Gurugram (Jan 2020 - Sept 2020)
+This project is more than just CRUD — it’s a real-world automation tool.
 
-- Completed comprehensive training in company applications and tools in 4 weeks.
-- Managed major applications, including Hubot for support task monitoring.
-- Automated report creation using complex SQL queries, contributing to a 20% reduction in ticket closure time.
+###🔨 What I’m building:
+	•	A complete REST API ecosystem
+	•	PostgreSQL-backed data models
+	•	Leave tracking
+	•	Absence management
+	•	Shift scheduling logic
+	•	Clean authentication and structure
+	•	Future addition: automated business rules (auto-approval, shift rotations)
 
-## Current Projects
+###💡 Why I’m building it
+Most companies track employee availability manually or across multiple tools.
+That leads to:
+	•	Confusion
+	•	Delays
+	•	Errors
+	•	Productivity dips
 
-- Exploring machine learning concepts for prediction using LLM, NLP, and neural networks.
-- Working on projects and competitions on Kaggle.
+This system aims to centralize, automate, and simplify all of it — using the clean power of Spring Boot & SQL.
 
-## Learning Focus
+###❤️ What excites me about this project
+	•	Solving a real operational problem
+	•	Designing maintainable business logic
+	•	Writing APIs that feel intuitive to use
+	•	Building something I can scale
 
-- Expanding knowledge in data science, analytics, and data visualization.
-- Exploring tools and libraries of Python machine learning and Tableau.
-- Strengthening skills in machine learning models.
+##🌱 My Purpose as an Engineer
+I don’t just code for the sake of coding.
+I code to reduce chaos, increase clarity, and give people their time back.
 
-## Let's Collaborate
+Why fix something every day
+when automation can fix it forever?
 
-Ask me about:
+Why react to failures
+when you can design systems that avoid them?
 
-- Data analysis and visualization using Python, R, and Tableau.
-- Machine learning and predictive modeling.
+Why accept complexity
+when simple logic wins every time?
 
-## How to Reach Me
+##🎯 Explore My Work!
+I intentionally removed the detailed “Projects” section
+because I want you to experience my work yourself.
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/ayushi-gupta-aa344b150/).
-- Reach me via email at [guptaayushi2611@outlook.com](mailto:guptaayushi2611@outlook.com).
-- [Portfolio](https://guptaayushi2611.wixsite.com/ayushi-gupta-portfol)
+Every repository on my GitHub is built with:
 
-## Favorite Resources
+✨ Clean backend logic
+✨ Real-world business problems
+✨ Automation
+✨ Scalable structures
+✨ Practical debugging scenarios
+✨ Data-driven thinking
 
-- [Coursera](https://www.coursera.org/)
-- [DataCamp](https://www.datacamp.com/)
-- [LinkedIn Learning](https://www.linkedin.com/learning/)
+👉 Take a tour — each repo tells part of my story.
 
-## Stay Updated
+If something inspires you, feel free to star ⭐ it
+or reach out. I love connecting with curious minds.
 
-Check out these resources for the best data science articles:
+##🔥 A Little About Me (Beyond Code)
+	•	🌅 Early morning gym person
+	•	📘 Extremely structured & organized
+	•	🧠 Debugging is my comfort zone
+	•	✨ Growth mindset
+	•	🎤 I love teaching and creating content
+	•	🤍 Open-minded, positive & self-driven
+	•	🍳 Eggitarian, high-protein lifestyle (fuel for code!)
 
-- [Towards Data Science](https://towardsdatascience.com/): A Medium publication with a plethora of data science articles.
-- [Data Science Weekly](https://www.datascienceweekly.org/): Get the best data science articles and resources delivered to your inbox.
+##👣 My Journey (Short Story)
+Small town → Tech curiosity →
+Technical support → Systems thinking →
+Root-cause mindset → Backend engineering →
+Software developer with product instincts.
 
-## Favorite Data Science Tools
+I don’t just write code —
+I solve problems, simplify complexity, and turn chaos into clarity.
 
-- Python
-- Jupyter Notebook
-- Pandas
-- Scikit-Learn
-- NLP
-- LLM
-- Deep Learning frameworks like TensorFlow
+##📫 Let’s Connect
+	•	🔗 LinkedIn: https://www.linkedin.com/in/ayushigpt/
+	•	🎤 Topmate (1:1 Mentorship): https://topmate.io/ayushi_guptaa
+	•	📧 Email: guptaayushi2611@outlook.com
+If you’re here, thank you.
+If you’re reading this far, let’s be friends.
+If you’re exploring my repos — enjoy the journey. 🚀

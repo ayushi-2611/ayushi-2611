@@ -31,27 +31,17 @@ It’s messy. It’s beautiful. It’s me.
 	•	CI/CD pipelines
 	•	Scalable backend architecture
 
-## ✨ Current Project: Employee Management System (Spring Boot)
-I’m currently building a full backend Employee Management System designed for small-to-mid sized teams that struggle with tracking people-related workflows.
+## ✨ Current Project: Habit Tracking System (Spring Boot)
+I’m currently building a full backend Habit Tracking System designed.
 
 This project is more than just CRUD — it’s a real-world automation tool.
 
 ### 🔨 What I’m building:
 	•	A complete REST API ecosystem
 	•	PostgreSQL-backed data models
-	•	Leave tracking
-	•	Absence management
-	•	Shift scheduling logic
+	•	Gamification System
+	•	Goal Tracking
 	•	Clean authentication and structure
-	•	Future addition: automated business rules (auto-approval, shift rotations)
-
-### 💡 Why I’m building it
-Most companies track employee availability manually or across multiple tools.
-That leads to:
-	•	Confusion
-	•	Delays
-	•	Errors
-	•	Productivity dips
 
 This system aims to centralize, automate, and simplify all of it — using the clean power of Spring Boot & SQL.
 
